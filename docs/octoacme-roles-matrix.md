@@ -18,7 +18,7 @@ This matrix clarifies accountability and collaboration patterns across OctoAcme 
 | **Initiation & Planning** |
 | Define problem statement | C | A | I | I | I | I | I |
 | Create project charter | A | C | C | I | I | I | C |
-| Identify stakeholders | R | C | I | I | I | C | A |
+| Identify stakeholders | C | C | I | I | I | C | A |
 | Develop communication plan | C | I | I | I | I | C | A |
 | Resource allocation | A | C | C | I | I | I | I |
 | Risk identification | R | C | C | C | C | I | I |
@@ -41,13 +41,13 @@ This matrix clarifies accountability and collaboration patterns across OctoAcme 
 | Test automation strategy | C | I | C | C | A | I | I |
 | Quality metrics tracking | C | I | C | C | A | I | I |
 | Process improvements | C | C | A | C | C | C | I |
-| Retrospective facilitation | R | C | R | R | R | I | I |
+| Retrospective facilitation | C | C | R | C | C | I | I |
 | **Release & Deployment** |
 | Release planning | A | C | C | C | C | I | C |
 | Deployment execution | C | I | C | A | C | I | I |
 | Release communication | C | C | I | I | I | C | A |
 | Production validation | C | C | C | C | A | I | I |
-| Release retrospective | R | R | R | R | R | C | I |
+| Release retrospective | R | C | C | C | C | C | I |
 | **Change Management** |
 | Change impact assessment | C | C | C | I | I | A | C |
 | Training material development | I | I | C | C | I | A | C |
