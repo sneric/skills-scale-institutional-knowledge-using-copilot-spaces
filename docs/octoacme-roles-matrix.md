@@ -23,35 +23,35 @@ This matrix clarifies accountability and collaboration patterns across OctoAcme 
 | Resource allocation | A | C | C | I | I | I | I |
 | Risk identification | R | C | C | C | C | I | I |
 | **Execution** |
-| Sprint/iteration planning | C | C | C | R/A | C | I | I |
-| Feature implementation | I | I | I | R/A | C | I | I |
-| Code review | I | I | C | R/A | C | I | I |
+| Sprint/iteration planning | C | C | C | A | C | I | I |
+| Feature implementation | I | I | I | A | C | I | I |
+| Code review | I | I | C | A | C | I | I |
 | Test strategy definition | C | C | C | C | A | I | I |
-| Test execution | I | I | I | C | R/A | I | I |
+| Test execution | I | I | I | C | A | I | I |
 | Quality sign-off | I | C | I | C | A | I | I |
-| Daily standups | C | I | R | R | R | I | I |
-| Remove blockers | R | C | R/A | C | C | I | I |
+| Daily standups | C | I | A | R | R | I | I |
+| Remove blockers | R | C | A | C | C | I | I |
 | **Communication** |
 | Stakeholder updates | R | C | C | I | I | I | A |
-| Status reporting | R/A | C | C | I | C | I | C |
-| Risk escalation | R/A | C | C | C | C | I | C |
+| Status reporting | A | C | C | I | C | I | C |
+| Risk escalation | A | C | C | C | C | I | C |
 | Team announcements | C | I | C | I | I | C | A |
 | **Quality & Process** |
-| Define acceptance criteria | C | R/A | I | C | C | I | I |
+| Define acceptance criteria | C | A | I | C | C | I | I |
 | Test automation strategy | C | I | C | C | A | I | I |
-| Quality metrics tracking | C | I | C | C | R/A | I | I |
-| Process improvements | C | C | R/A | C | C | C | I |
+| Quality metrics tracking | C | I | C | C | A | I | I |
+| Process improvements | C | C | A | C | C | C | I |
 | Retrospective facilitation | R | C | R | R | R | I | I |
 | **Release & Deployment** |
-| Release planning | R/A | C | C | C | C | I | C |
-| Deployment execution | C | I | C | R/A | C | I | I |
-| Release communication | C | C | I | I | I | C | R/A |
-| Production validation | C | C | C | C | R/A | I | I |
+| Release planning | A | C | C | C | C | I | C |
+| Deployment execution | C | I | C | A | C | I | I |
+| Release communication | C | C | I | I | I | C | A |
+| Production validation | C | C | C | C | A | I | I |
 | Release retrospective | R | R | R | R | R | C | I |
 | **Change Management** |
-| Change impact assessment | C | C | C | I | I | R/A | C |
-| Training material development | I | I | C | C | I | R/A | C |
-| Adoption tracking | I | C | C | I | I | R/A | C |
+| Change impact assessment | C | C | C | I | I | A | C |
+| Training material development | I | I | C | C | I | A | C |
+| Adoption tracking | I | C | C | I | I | A | C |
 | User support during transition | C | C | C | C | I | R | C |
 
 ---

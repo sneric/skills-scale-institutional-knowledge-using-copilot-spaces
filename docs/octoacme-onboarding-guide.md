@@ -187,7 +187,7 @@ We continuously improve this onboarding guide based on feedback.
 
 ### Share Your Experience
 After your first month, please:
-1. Complete the onboarding feedback survey [Link]
+1. Complete the onboarding feedback survey [Note: Create survey using your organization's preferred tool (e.g., Google Forms, Microsoft Forms, or internal survey platform)]
 2. Suggest improvements to this document via PR or issue
 3. Share what helped most and what could be clearer
 
