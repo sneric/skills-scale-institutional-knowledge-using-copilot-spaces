@@ -112,4 +112,8 @@ This matrix provides a baseline. Adjust based on:
 - **Project type**: Infrastructure vs. product projects may need different patterns
 - **Team maturity**: More experienced teams may need less oversight
 
+**Common Variations**:
+- **Retrospective facilitation**: While Delivery Manager is typically responsible, Project Manager may also facilitate depending on team structure and project context
+- **Problem definition**: Product Manager is shown as accountable, but this may vary by project type (e.g., infrastructure projects may have different ownership)
+
 Document any variations in your project charter or README.

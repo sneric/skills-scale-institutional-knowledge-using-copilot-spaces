@@ -187,11 +187,9 @@ We continuously improve this onboarding guide based on feedback.
 
 ### Share Your Experience
 After your first month, please:
-1. Complete the onboarding feedback survey [Link to be added by your organization]
+1. Complete the onboarding feedback survey [Link to be added]
 2. Suggest improvements to this document via PR or issue
 3. Share what helped most and what could be clearer
-
-<!-- Template Note: Create a feedback survey using your organization's preferred tool (e.g., Google Forms, Microsoft Forms, or internal survey platform) and add the link above. Remove this comment when implementing. -->
 
 ### Getting Help
 - **Immediate questions**: Ask in team chat or your buddy
@@ -239,3 +237,14 @@ You're on track when you can:
 **Welcome aboard! We're excited to have you on the team.** 🎉
 
 *This template is part of the OctoAcme project management framework. Customize it for your specific project and team needs.*
+
+---
+
+## Template Customization Notes
+
+When implementing this onboarding guide for your team:
+1. Replace all placeholder text in brackets [like this] with actual information
+2. Create a feedback survey using your organization's preferred tool (Google Forms, Microsoft Forms, etc.) and add the link in the Feedback section
+3. Update the communication tools and meeting cadences to match your team's practices
+4. Add role-specific resources and external training materials relevant to your organization
+5. Remove these customization notes after completing the template
