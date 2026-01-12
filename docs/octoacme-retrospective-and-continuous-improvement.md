@@ -16,6 +16,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Delivery Manager or Project Manager typically facilitates (see [Roles and Personas](./octoacme-roles-and-personas.md))
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
@@ -31,3 +32,4 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Change Champion supports adoption of process improvements and new practices (see [Roles Matrix](./octoacme-roles-matrix.md))

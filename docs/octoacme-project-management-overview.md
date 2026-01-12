@@ -16,9 +16,14 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Delivery Manager: optimizes team processes, removes blockers, enables continuous delivery.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- Quality Assurance Lead: establishes quality standards, test strategies, and coordinates testing activities.
+- Change Champion: drives adoption of new processes, tools, and organizational changes.
+- Communications Liaison: manages strategic communication and stakeholder engagement.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions and collaboration patterns, see [Roles and Personas](./octoacme-roles-and-personas.md) and [Roles & Responsibilities Matrix](./octoacme-roles-matrix.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

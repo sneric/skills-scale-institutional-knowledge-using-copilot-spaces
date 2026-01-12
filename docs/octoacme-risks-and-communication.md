@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Communications Liaison manages strategic stakeholder engagement (see [Roles and Personas](./octoacme-roles-and-personas.md))
 
 ## Communication Templates
 Weekly Status Template:
@@ -40,3 +41,4 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- Communications Liaison coordinates messaging for major escalations and incidents (see [Roles Matrix](./octoacme-roles-matrix.md))

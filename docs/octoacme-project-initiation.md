@@ -17,7 +17,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
 - Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Resource needs (team roles, rough effort estimate) - use [Roles Matrix](./octoacme-roles-matrix.md) to identify needed roles
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +35,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify required roles using [Roles Matrix](./octoacme-roles-matrix.md)
+- [ ] Assign named individuals to key roles
+- [ ] Set up [Team Onboarding Guide](./octoacme-onboarding-guide.md) for new team members
 
 ## Decision Gate
 Move to planning when:
