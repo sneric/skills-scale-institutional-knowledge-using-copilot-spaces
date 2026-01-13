@@ -22,6 +22,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Quality Assurance Lead coordinates testing strategy and sign-offs (see [Roles Matrix](./octoacme-roles-matrix.md))
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -30,8 +31,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
+- Level 2: PM escalates to Product Lead and dependent teams (Delivery Manager may assist with cross-team coordination)
 - Level 3: Sponsor-level escalation for business-impacting issues
+- Communications Liaison manages stakeholder messaging during escalations (see [Roles Matrix](./octoacme-roles-matrix.md))
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
